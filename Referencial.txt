@@ -1,32 +1,26 @@
-Python
+﻿Python
 Importância:
-
-Versatilidade e Facilidade de Uso: Python é conhecido por sua sintaxe clara e legibilidade, tornando-o uma excelente escolha para iniciantes e desenvolvedores experientes. Isso facilita o desenvolvimento rápido de aplicações web.
-Frameworks Robustos: Python oferece frameworks poderosos como Django e Flask, que aceleram o desenvolvimento de aplicações web seguras e escaláveis.
-Ampla Comunidade e Suporte: Uma vasta comunidade de desenvolvedores e uma ampla gama de bibliotecas e ferramentas disponíveis tornam o desenvolvimento web mais acessível e eficiente.
+* Versatilidade e Facilidade de Uso: Python é conhecido por sua sintaxe clara e legibilidade, tornando-o uma excelente escolha para iniciantes e desenvolvedores experientes. Isso facilita o desenvolvimento rápido de aplicações web.
+* Frameworks Robustos: Python oferece frameworks poderosos como Django e Flask, que aceleram o desenvolvimento de aplicações web seguras e escaláveis.
+* Ampla Comunidade e Suporte: Uma vasta comunidade de desenvolvedores e uma ampla gama de bibliotecas e ferramentas disponíveis tornam o desenvolvimento web mais acessível e eficiente.
 Links Importantes:
-
-Python Official Website: https://www.python.org/
-Django: https://www.djangoproject.com/
-Flask: https://flask.palletsprojects.com/
+* Python Official Website: https://www.python.org/
+* Django: https://www.djangoproject.com/
+* Flask: https://flask.palletsprojects.com/
 Git
 Importância:
-
-Controle de Versão: Git é o sistema de controle de versão mais utilizado, permitindo que os desenvolvedores gerenciem e acompanhem as alterações no código-fonte ao longo do tempo.
-Colaboração: Facilita a colaboração entre desenvolvedores, permitindo que múltiplas pessoas trabalhem no mesmo projeto simultaneamente sem conflitos.
-Integração com Serviços de Hospedagem: Plataformas como GitHub, GitLab e Bitbucket usam Git, oferecendo recursos adicionais para hospedagem de código, revisão de código e integração contínua.
+* Controle de Versão: Git é o sistema de controle de versão mais utilizado, permitindo que os desenvolvedores gerenciem e acompanhem as alterações no código-fonte ao longo do tempo.
+* Colaboração: Facilita a colaboração entre desenvolvedores, permitindo que múltiplas pessoas trabalhem no mesmo projeto simultaneamente sem conflitos.
+* Integração com Serviços de Hospedagem: Plataformas como GitHub, GitLab e Bitbucket usam Git, oferecendo recursos adicionais para hospedagem de código, revisão de código e integração contínua.
 Links Importantes:
-
-Git Official Website: https://git-scm.com/
-GitHub: https://github.com/
-GitLab: https://gitlab.com/
+* Git Official Website: https://git-scm.com/
+* GitHub: https://github.com/
+* GitLab: https://gitlab.com/
 Visual Studio Code (VSCode)
 Importância:
-
-Editor Versátil e Poderoso: VSCode é um editor de código fonte leve, mas poderoso, que suporta uma vasta gama de linguagens de programação, incluindo Python.
-Personalização e Extensões: Oferece extensões e personalizações que permitem aos desenvolvedores adaptar o ambiente de acordo com suas necessidades, incluindo suporte direto para Git e depuração.
-Facilidade de Uso e Produtividade: Com recursos como destaque de sintaxe, autocompletar código, e integração com Git, VSCode melhora significativamente a eficiência e a produtividade dos desenvolvedores.
+* Editor Versátil e Poderoso: VSCode é um editor de código fonte leve, mas poderoso, que suporta uma vasta gama de linguagens de programação, incluindo Python.
+* Personalização e Extensões: Oferece extensões e personalizações que permitem aos desenvolvedores adaptar o ambiente de acordo com suas necessidades, incluindo suporte direto para Git e depuração.
+* Facilidade de Uso e Produtividade: Com recursos como destaque de sintaxe, autocompletar código, e integração com Git, VSCode melhora significativamente a eficiência e a produtividade dos desenvolvedores.
 Links Importantes:
-
-Visual Studio Code Official Website: https://code.visualstudio.com/
-Marketplace de Extensões do VSCode: https://marketplace.visualstudio.com/vscode
+* Visual Studio Code Official Website: https://code.visualstudio.com/
+* Marketplace de Extensões do VSCode: https://marketplace.visualstudio.com/vscode
